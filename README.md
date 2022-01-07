@@ -14,4 +14,4 @@
 
 - [스케쳐](https://github.com/happy-jin1234/sketcher)
 - [랜덤채팅의 디스코드화!](https://github.com/andjsrk/DRC)
-- [Bouncy Ball](https://github.com/saesac/BouncyBot)
+- [Bouncy Bot](https://github.com/saesac/BouncyBot)
